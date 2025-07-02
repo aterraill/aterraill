@@ -24,21 +24,6 @@ role: Computer Vision and AI Engineer
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
   - Earth Observation
@@ -67,16 +52,19 @@ work:
     company_name: Aerospace company
     date_start: 2021-01-01
     date_end: ''
+    summary: |
 
   - position: Artificial Intelligence and Computer Vision Research Engineer
     company_name: Aerospace company
     date_start: 2019-10-01
     date_end: 2021-01-01
+    summary: |
 
   - position: Artificial Intelligence and Computer Vision Research Engineer Intern
     company_name: Aerospace company
     date_start: 2019-03-01
     date_end: 2021-09-30
+    summary: |
 
   - position: Software Engineer Intern
     company_name: Anzrway
@@ -84,6 +72,7 @@ work:
     company_logo: 'aw'
     date_start: 2018-06-01
     date_end: 2018-09-15
+    summary: | First employee in a human centric cybersecurity startup.
 
   - position: Optronics Engineer Intern
     company_name: B Com Labs
@@ -91,6 +80,7 @@ work:
     company_logo: 'bcom'
     date_start: 2017-06-01
     date_end: 2017-09-15
+    summary: | Research Lab where I helped a PhD student set up an indoors laser communication device. 
 
 
 # Skills
