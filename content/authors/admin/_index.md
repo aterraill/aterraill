@@ -48,23 +48,18 @@ interests:
   - Synthetic Image generation (Infrared and SAR)
 
 education:
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
   - area: MEng Computer Vision and Artificial Intelligence
     institution: IMT Atlantique (Télécom Bretagne) 
-    date_start: 2016-09
-    date_end: 2019-09
+    date_start: 2016-09-01
+    date_end: 2019-09-01
     summary: |
       Ersmus semester at Chalmers tekniska högskola in Computer Vision and Artificial Intelligence
 
       
   - area: BSc Mathematics
     institution: Classe préparatoire Stanislas Paris
-    date_start: 2014-09
-    date_end: 2016-06
+    date_start: 2014-09-01
+    date_end: 2016-06-01
     summary: |
 
 # Skills
@@ -74,29 +69,38 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
-      - name: Data Science
+      - name: Pytorch
+        description: ''
+        percent: 90
+        icon: code-bracket
+      - name: Tensorflow
+        description: ''
+        percent: 75
+        icon: code-bracket
+      - name: Matlab
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: code-bracket
+      - name: R
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 80
+        icon: code-bracket
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Padel
         description: ''
-        percent: 60
+        percent: 100
         icon: person-simple-walk
-      - name: Cats
+      - name: Tennis
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Music 
         description: ''
         percent: 80
         icon: camera
