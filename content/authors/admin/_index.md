@@ -69,7 +69,7 @@ work:
   - position: Software Engineer Intern
     company_name: Anzrway
     company_url: 'https://anozrway.com/fr/'
-    company_logo: 'aw'
+    company_logo: 'aw.png'
     date_start: 2018-06-01
     date_end: 2018-09-15
     summary: | 
@@ -78,7 +78,7 @@ work:
   - position: Optronics Engineer Intern
     company_name: B Com Labs
     company_url: 'https://b-com.com/'
-    company_logo: 'bcom'
+    company_logo: 'bcom.png'
     date_start: 2017-06-01
     date_end: 2017-09-15
     summary: | 
@@ -93,7 +93,7 @@ skills:
       - name: Python
         description: ''
         percent: 100
-        icon: code-bracket
+        icon: 'python.png'
       - name: Pytorch
         description: ''
         percent: 90
