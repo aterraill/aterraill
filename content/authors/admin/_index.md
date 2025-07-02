@@ -72,7 +72,8 @@ work:
     company_logo: 'aw'
     date_start: 2018-06-01
     date_end: 2018-09-15
-    summary: | First employee in a human centric cybersecurity startup.
+    summary: | 
+      First employee in a human centric cybersecurity startup.
 
   - position: Optronics Engineer Intern
     company_name: B Com Labs
@@ -80,7 +81,8 @@ work:
     company_logo: 'bcom'
     date_start: 2017-06-01
     date_end: 2017-09-15
-    summary: | Research Lab where I helped a PhD student set up an indoors laser communication device. 
+    summary: | 
+      Research Lab where I helped a PhD student set up an indoors laser communication device. 
 
 
 # Skills
