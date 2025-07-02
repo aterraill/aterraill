@@ -67,7 +67,7 @@ work:
     summary: |
 
   - position: Software Engineer Intern
-    company_name: Anzrway
+    company_name: Anozrway
     company_url: 'https://anozrway.com/fr/'
     date_start: 2018-06-01
     date_end: 2018-09-15
@@ -103,11 +103,11 @@ skills:
       - name: Matlab
         description: ''
         percent: 100
-        icon: code-bracket
+        icon: 'matlab'
       - name: R
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: 'R_logo'
 
   - name: Hobbies
     color: '#eeac02'
@@ -116,15 +116,15 @@ skills:
       - name: Padel
         description: ''
         percent: 100
-        icon: person-simple-walk
+        icon: 'padel'
       - name: Tennis
         description: ''
         percent: 100
-        icon: cat
-      - name: Music 
+        icon: 'tennis'
+      - name: Creating music
         description: ''
         percent: 80
-        icon: camera
+        icon: 'music'
 
 languages:
   - name: French
