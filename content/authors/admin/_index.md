@@ -103,11 +103,11 @@ skills:
       - name: Matlab
         description: ''
         percent: 100
-        icon: 'matlab'
+        icon: code-bracket
       - name: R
         description: ''
         percent: 80
-        icon: 'R_logo'
+        icon: code-bracket
 
   - name: Hobbies
     color: '#eeac02'
@@ -116,15 +116,12 @@ skills:
       - name: Padel
         description: ''
         percent: 100
-        icon: 'padel'
       - name: Tennis
         description: ''
         percent: 100
-        icon: 'tennis'
       - name: Creating music
         description: ''
         percent: 80
-        icon: 'music'
 
 languages:
   - name: French
