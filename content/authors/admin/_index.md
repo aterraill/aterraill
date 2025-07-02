@@ -62,6 +62,37 @@ education:
     date_end: 2016-06-01
     summary: |
 
+work:
+  - position: Technical lead in Artificial Intelligence and Computer Vision
+    company_name: Aerospace company
+    date_start: 2021-01-01
+    date_end: ''
+
+  - position: Artificial Intelligence and Computer Vision Research Engineer
+    company_name: Aerospace company
+    date_start: 2019-10-01
+    date_end: 2021-01-01
+
+  - position: Artificial Intelligence and Computer Vision Research Engineer Intern
+    company_name: Aerospace company
+    date_start: 2019-03-01
+    date_end: 2021-09-30
+
+  - position: Software Engineer Intern
+    company_name: Anzrway
+    company_url: 'https://anozrway.com/fr/'
+    company_logo: 'aw'
+    date_start: 2018-06-01
+    date_end: 2018-09-15
+
+  - position: Optronics Engineer Intern
+    company_name: B Com Labs
+    company_url: 'https://b-com.com/'
+    company_logo: 'bcom'
+    date_start: 2017-06-01
+    date_end: 2017-09-15
+
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
